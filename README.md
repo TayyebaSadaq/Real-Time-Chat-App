@@ -20,7 +20,6 @@ You'll need python installed as well as the following for the encryption <br/>
 To then run the application itself:<br/>
 
 - open server in integrated terminal type: python server.py
-
 - open client in integrated terminal type: python client.py
 
 *repeat for as many clients as you want in the chatroom
