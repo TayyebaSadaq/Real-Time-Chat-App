@@ -1,4 +1,5 @@
-## 💬 RealTimeChatApp
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Real-time%20Chat%20App&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+
 This is a project from my second year - first semester in Networks and Security. The task was to produce an Internet of Things (IOT) application that demonstrates
 - The ability to structure and comment code
 - Client/server model and/or peer-to-peer model principles
